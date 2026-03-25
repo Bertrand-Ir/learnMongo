@@ -1,0 +1,25 @@
+{
+  "name": "learnmongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bertrand-Ir/learnMongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bertrand-Ir/learnMongo/issues"
+  },
+  "homepage": "https://github.com/Bertrand-Ir/learnMongo#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "mongoose": "^9.3.2"
+  }
+}
